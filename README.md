@@ -20,4 +20,4 @@ Requirements
 
 Installation
 ------------
-* Debian: https://www.hostingtermurah.net/tutorial-install-ocs-panel-pada-vps/
+* Debian7
